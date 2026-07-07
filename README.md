@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm Piyush (@Whiteroom-daemon)
+# ⚡ Hi, I'm Piyush (@Kurosyss)
 ### AI Systems Engineer | Automating SEO | Dev & Offensive Security
 
 *"I deliver execution, not excuses."*
