@@ -31,9 +31,9 @@ I build intelligent systems that solve complex bottlenecks. Currently in a high-
 ### >_ contribution_grid.exe
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kurosyss/kurosyss/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kurosyss/kurosyss/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kurosyss/kurosyss/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kurosyss/Kurosyss/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kurosyss/Kurosyss/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kurosyss/Kurosyss/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
