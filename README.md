@@ -1,4 +1,4 @@
-<h1 align="center">>_ Kuro-sys Kuro-Sys</h1>
+<h1 align="center" Kuro-Sys</h1>
 <h3 align="center">Aarchitecting logic | crafting interfaces | editing aesthetics</h3>
 
 - 🔭 I’m currently working on **building AI-integrated web applications and high-retention visual content.**
