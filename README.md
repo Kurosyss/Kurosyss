@@ -31,17 +31,9 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
-<h3 align="center">Live Metrics</h3>
-<div align="center">
-  <!-- USERNAME FORCED TO LOWERCASE TO FIX BROKEN LINKS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kurosyss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurosyss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7" height="150" alt="Top Languages" />
-</div>
-
-<br>
-
+<h3 align="center">Execution Grid</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kurosyss/Kurosyss/output/github-contribution-grid-snake-dark.svg">
