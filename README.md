@@ -1,39 +1,45 @@
-# ⚡ Hi, I'm Piyush (@Kurosyss)
-### AI Systems Engineer | Automating SEO | Dev & Offensive Security
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=>+whoami;>+Kuro-sys;>+just+a+guy+talking+to+apis;>+architecting+ai+logic;>+offensive+security" alt="Typing SVG" />
+</div>
 
-*"I deliver execution, not excuses."*
+<br>
 
-I build intelligent systems that solve complex bottlenecks. By integrating multi-agent AI swarms, writing aggressive Python automations, and architecting reverse-engineered SEO strategies, I help teams multiply their output without multiplying their effort. 
+### >_ system.info
+I build intelligent systems that solve complex bottlenecks. Currently in a high-focus execution phase—integrating multi-agent AI swarms, writing aggressive Python automations, and diving deep into offensive security & ethical hacking. 
 
----
+**Status:** Building my own empire, one line at a time.
 
-### 💀 The Arsenal (Core Competencies)
-- 🧠 **Artificial Intelligence:** Architecting scalable LLM pipelines and building autonomous multi-agent swarms.
-- ⚙️ **Backend & APIs:** Engineering robust, low-latency API infrastructure.
-- 🕷️ **Web Scraping & Automation:** Writing aggressive Python scripts to extract data and automate digital workflows.
-- 🛡️ **Offensive Security:** Fortifying systems by thinking like an attacker.
-- 📈 **Growth Engineering:** Reverse-engineering SEO strategies to automate digital marketing growth.
+<br>
 
----
-
-### 💻 Tech Stack
+### >_ core_stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Architecture-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_&_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Web_Scraping-FF6C37?style=for-the-badge&logo=selenium&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,docker,kali,windows&theme=dark" />
+  </a>
 </p>
 
+<br>
+
+### >_ live_metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kurosyss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurosyss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7" height="150" alt="top languages" />
+</div>
+
+<br>
+
+### >_ contribution_grid.exe
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kurosyss/kurosyss/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kurosyss/kurosyss/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kurosyss/kurosyss/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
 ---
-
-### 🔭 Current Projects
-- **[Decode.BS](https://github.com/Whiteroom-daemon/decode-bs-chrome-extension):** A high-performance Chrome Extension that intercepts corporate privacy policies and streams them through advanced Language Models to expose hidden surveillance and legal gags.
-- **[RoastMyResume.ai](https://github.com/Whiteroom-daemon/RoastMyResume.ai):** An AI-powered resume analyzer built with custom inference pipelines and high-speed APIs.
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whiteroom-daemon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Piyush's GitHub Stats" />
-</p>
+<div align="center">
+  <sub><b>sys.status:</b> stealth_mode | <b>location:</b> unknown</sub>
+</div>
