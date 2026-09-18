@@ -27,7 +27,7 @@
 <h3 align="center">The Arsenal</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,nodejs,linux,docker,figma,ps,ae,ai,pr,tensorflow&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,nodejs,linux,ps,ae,ai,tensorflow&theme=dark" />
   </a>
 </div>
 
